@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Welcome to Acme Accounting Sytems \n Remember, we're \"accounting\" on you!");
         Console.ReadLine();
     }
 }
