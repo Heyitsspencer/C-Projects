@@ -1,0 +1,7 @@
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperatorAssignment\MathAndCompOpAssignment\MathAndCompOpAssignment\bin\Debug\MathAndCompOpAssignment.exe.config
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperatorAssignment\MathAndCompOpAssignment\MathAndCompOpAssignment\bin\Debug\MathAndCompOpAssignment.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperatorAssignment\MathAndCompOpAssignment\MathAndCompOpAssignment\bin\Debug\MathAndCompOpAssignment.pdb
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperatorAssignment\MathAndCompOpAssignment\MathAndCompOpAssignment\obj\Debug\MathAndCompOpAssignment.csproj.AssemblyReference.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperatorAssignment\MathAndCompOpAssignment\MathAndCompOpAssignment\obj\Debug\MathAndCompOpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperatorAssignment\MathAndCompOpAssignment\MathAndCompOpAssignment\obj\Debug\MathAndCompOpAssignment.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperatorAssignment\MathAndCompOpAssignment\MathAndCompOpAssignment\obj\Debug\MathAndCompOpAssignment.pdb
