@@ -1,0 +1,6 @@
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssingment\StringAssingment\bin\Debug\StringAssingment.exe.config
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssingment\StringAssingment\bin\Debug\StringAssingment.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssingment\StringAssingment\bin\Debug\StringAssingment.pdb
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssingment\StringAssingment\obj\Debug\StringAssingment.csproj.CoreCompileInputs.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssingment\StringAssingment\obj\Debug\StringAssingment.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssingment\StringAssingment\obj\Debug\StringAssingment.pdb
