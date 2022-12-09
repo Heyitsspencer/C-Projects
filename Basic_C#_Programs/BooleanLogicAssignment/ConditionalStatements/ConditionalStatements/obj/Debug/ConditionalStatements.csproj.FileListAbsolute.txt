@@ -1,0 +1,7 @@
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignment\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignment\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignment\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignment\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignment\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignment\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignment\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb
