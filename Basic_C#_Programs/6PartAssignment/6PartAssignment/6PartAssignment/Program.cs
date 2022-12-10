@@ -24,10 +24,27 @@ namespace _6PartAssignment
                 string fullName = name + " " + userInput;
                 Console.WriteLine(fullName);
             }
-
-            //Checks to see if userInput got concatenated with strings in the array
-            
+            //Step 4- Create a second loop that prints off each string in the array one at a time
+            for(int i = 0; i < stringArray.Length; i++)
             Console.ReadLine();
+
+            //ASSIGNMENT PART TWO
+            //Step 1- Add an infinite loop
+            bool value = true;
+            while (value = true)
+            {
+                Console.WriteLine("Hello, World");
+                Console.ReadLine();
+                value = false;
+                //Step 3- fix the infinite loop so it stops printing after 1
+                break;
+
+
+
+
+                
+
+            }
         }
     }
 }
