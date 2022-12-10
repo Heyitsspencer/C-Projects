@@ -41,6 +41,31 @@ namespace ArrayAssignment
                 Console.WriteLine("That index does not exist.");
                 Console.ReadLine();
             }
+
+            //Creates a string list
+            List<string> stringList = new List<string>(5);
+            stringList.Add("Mirabelle");
+            stringList.Add("Goose");
+            stringList.Add("Pigeon");
+            stringList.Add("Murphy");
+            stringList.Add("Ollie");
+
+
+            Console.WriteLine("Select an index of the Animal List"); //Has user enter input 
+            int selectedStringList = Convert.ToInt32(Console.ReadLine());//Saves user input into variable and converts it to integer
+            if (selectedStringList <= 6)
+            {
+                Console.WriteLine("The number at that index is: " + stringList[selectedStringList]); //Prints users input if equal to or less than 6 
+                Console.ReadLine(); //Allows user to read program output
+            }
+
+            //Displays an error message if index user selected doesn't exist
+            else if (selectedStringList > 6)
+            {
+                Console.WriteLine("That index does not exist.");
+                Console.ReadLine();
+            }
+
         }
     }
 }
