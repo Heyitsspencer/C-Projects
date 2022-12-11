@@ -4,3 +4,4 @@ C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\6Par
 C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\6PartAssignment\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.csproj.CoreCompileInputs.cache
 C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\6PartAssignment\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.exe
 C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\6PartAssignment\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.pdb
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\6PartAssignment\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.csproj.AssemblyReference.cache
