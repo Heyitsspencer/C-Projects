@@ -110,13 +110,13 @@ class Program
         //the indices of the items matching the user-selected text.
 
         bool found1 = false;
-        for (int l = 0; l < stringList1.Count; l++)
+        for (int k = 0; k < stringList1.Count; k++)
         {
             //Step 3- check if the user put in text that isn't on the list and,
             //if they did, tells the user their input is not on the list
-            if (userNameInput1 == stringList1[l])
+            if (userNameInput1 == stringList1[k])
             {
-                Console.WriteLine(l);
+                Console.WriteLine(k);
                 Console.ReadLine();
                 found1 = true;
 
@@ -127,9 +127,41 @@ class Program
                 Console.WriteLine("Your input is not on the list");
                 Console.ReadLine();
             }
-
         }
 
+        //ASSIGNMENT PART 6
+        //Step 1- Create a list of strings that has two identical strings in the list
+        List<string> stringList2 = new List<string>();
+        stringList2.Add("A");
+        stringList2.Add("B");
+        stringList2.Add("C");
+        stringList2.Add("D");
+        stringList2.Add("B");
+        stringList2.Add("C");
+        //Step 2- Create a foreach loop that evaluates each item in the list, and displays
+        //a message showing the string and whether or not it has already appeared in the list.
+        
+        foreach (string letter1 in stringList2)
+        {
+            int counter1 = 0;
+            foreach (string letter2 in stringList2)
+            {
+                if (letter2 == letter1)
+                {
+                    counter1++;
+                }
 
+            }
+
+            if (counter1 == 1)
+            {
+                Console.WriteLine(letter1 + " - This item is unique");
+            }
+            else
+            {
+                Console.WriteLine(letter1 + " - This item is a duplicate");
+            }
+        }
+        Console.ReadLine();
     }
 }
