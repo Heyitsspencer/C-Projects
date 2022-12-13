@@ -1,0 +1,7 @@
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\MethodSubmission\MethodSubmission\bin\Debug\MethodSubmission.exe.config
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\MethodSubmission\MethodSubmission\bin\Debug\MethodSubmission.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\MethodSubmission\MethodSubmission\bin\Debug\MethodSubmission.pdb
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\MethodSubmission\MethodSubmission\obj\Debug\MethodSubmission.csproj.AssemblyReference.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\MethodSubmission\MethodSubmission\obj\Debug\MethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\MethodSubmission\MethodSubmission\obj\Debug\MethodSubmission.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\MethodSubmission\MethodSubmission\obj\Debug\MethodSubmission.pdb
