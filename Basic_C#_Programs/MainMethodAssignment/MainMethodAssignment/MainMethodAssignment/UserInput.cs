@@ -17,9 +17,9 @@ namespace MainMethodAssignment
         }
         //Step 3- add a second method to the class with the same name that will take in a decimal,
         //create a different math operation for it and then return the answer as an 
-        public int DoMathOperation(double p1)
+        public int DoMathOperation(decimal p1)
         {
-            return (int)(p1 / 2.6);
+            return (int)(p1 / 2.6M);
         }
         //Step 5- Add a third method to the class, with the same name, that will take in a string, convert it to an
         //integer if possible, do a different math operation to it, then return the answer as an integer.

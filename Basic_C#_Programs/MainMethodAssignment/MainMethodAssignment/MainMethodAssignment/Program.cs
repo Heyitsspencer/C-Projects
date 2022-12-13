@@ -20,7 +20,7 @@ namespace MainMethodAssignment
             //Step 4- instantiate the class and call the second method, passing in a decimal
             //Display the result to the screen
             UserInput userInput2 = new UserInput();
-            int doMathOperation2 = userInput.DoMathOperation(25.7);
+            int doMathOperation2 = userInput.DoMathOperation(25.7M);
             Console.WriteLine("25.7 / 2.6 = " + doMathOperation2 + " (Rounded)" );
             Console.ReadLine();
 
