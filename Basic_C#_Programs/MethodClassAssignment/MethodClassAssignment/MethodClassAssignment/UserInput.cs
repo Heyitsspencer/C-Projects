@@ -17,6 +17,7 @@ namespace MethodClassAssignment
             int value = p1 + 100;
             Console.WriteLine(value);
             Console.WriteLine(p2);
+            Console.ReadLine();
         }
 
     }
