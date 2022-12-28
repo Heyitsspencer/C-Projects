@@ -1,0 +1,7 @@
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe.config
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.pdb
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.pdb
