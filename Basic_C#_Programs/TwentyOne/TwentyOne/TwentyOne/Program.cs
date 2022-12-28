@@ -10,37 +10,23 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Face = Face.Eight;
+            card2.Face = Face.King;
 
-            //Polymorphism
-            //Game game = new TwentyOneGame();
+            Console.WriteLine(card1.Face);
 
-
-            //Game game = new Game();
-            //game.Players = new List<string>() { "Spencer", "Shannon", "Steven" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Spencer";
-            //game += player;
-            //game -= player;
-
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            //Deck deck = new Deck();
+            //deck.Shuffle(3);
 
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
     }
