@@ -1,0 +1,7 @@
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.exe.config
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.pdb
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.AssemblyReference.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.pdb
