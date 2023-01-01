@@ -1,0 +1,7 @@
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\InputAssignment\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe.config
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\InputAssignment\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\InputAssignment\InputAssignment\InputAssignment\bin\Debug\InputAssignment.pdb
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\InputAssignment\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\InputAssignment\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\InputAssignment\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\InputAssignment\InputAssignment\InputAssignment\obj\Debug\InputAssignment.pdb
