@@ -7,3 +7,4 @@ C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\Twen
 C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\TwentyOne\bin\Debug\Casino.dll
 C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
 C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\mmcmi\OneDrive\Documents\School\C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
