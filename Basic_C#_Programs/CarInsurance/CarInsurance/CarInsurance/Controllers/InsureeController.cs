@@ -192,19 +192,16 @@ namespace CarInsurance.Controllers
             return monthlyTotal;
         }
 
-        // GET: Insuree/Admin/5
-        public ActionResult Admin(int? id)
+        // GET: Insuree/Admin
+        public ActionResult Admin()
         {
-            if (id == null)
-            {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-            }
-            Insuree insuree = db.Insurees.Find(id);
-            if (insuree == null)
+            DbSet<Insuree> insurees = db.Insurees;
+            if (insurees == null)
             {
                 return HttpNotFound();
             }
-            return View(insuree);
+
+            return View(insurees);
         }
     }
 }
