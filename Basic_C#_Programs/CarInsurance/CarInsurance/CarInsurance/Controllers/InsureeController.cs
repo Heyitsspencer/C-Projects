@@ -134,7 +134,7 @@ namespace CarInsurance.Controllers
 
             //If the user is 18 or under, add $100 to the monthly total.
             int age = (DateTime.Now - insuree.DateOfBirth).Days/365;
-            if (age >= 18)
+            if (age <= 18)
             {
                 monthlyTotal += 100;
             }
@@ -169,12 +169,16 @@ namespace CarInsurance.Controllers
             //(Meaning, this specific car will add a total of $50 to the price.)
             if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
             {
-                monthlyTotal += 50;
+                monthlyTotal += 25;
             }
 
             //Add $10 to the monthly total for every speeding ticket the user has.
-            decimal speedingTicketsFine = insuree.SpeedingTickets * 10;
-            monthlyTotal += speedingTicketsFine;
+            if (insuree.SpeedingTickets > 0) 
+            {
+                decimal speedingTicketsFine = insuree.SpeedingTickets * 10;
+                monthlyTotal += speedingTicketsFine;
+            }
+            
 
             //If the user has ever had a DUI, add 25% to the total.
             if (insuree.DUI == true)
